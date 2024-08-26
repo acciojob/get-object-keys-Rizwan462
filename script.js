@@ -7,5 +7,5 @@ Object.prototype.getKeys= function() {
 const student = {
 	name:"Sushil",
 }
-const myObj = student.getkeys();
-console.log(myObj);
+console.log(student.getkeys());
+
